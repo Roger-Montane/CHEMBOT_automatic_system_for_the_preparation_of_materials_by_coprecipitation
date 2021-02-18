@@ -1,0 +1,2 @@
+# CHEMBOT_automaticsystem_for_the_preparation_of_materials_by_coprecipitation
+Design and construction of an automatic system for the preparation of materials by coprecipitation
